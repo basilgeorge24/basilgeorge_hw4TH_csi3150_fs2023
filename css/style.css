@@ -36,6 +36,12 @@ body {
   font-family: "Trirong";
 }
 
+.hero h4{
+  color: rgba(165, 23, 23, 0.529);
+  text-align: center;
+  font-family:monospace;
+}
+
 .hero img {
   position: static;
   width: 100%;
