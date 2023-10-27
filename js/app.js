@@ -128,7 +128,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/xt5.jfif",
+    image: "./img/XT5.jfif",
     year: 2017,
     make: "Cadillac",
     model: "XT5",
@@ -315,7 +315,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/xt5.jfif",
+    image: "./img/XT5.jfif",
     year: 2015,
     make: "Cadillac",
     model: "Escalade",
