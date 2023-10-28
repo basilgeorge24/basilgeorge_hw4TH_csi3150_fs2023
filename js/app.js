@@ -194,7 +194,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/camry.jfif",
+    image: "./img/corolla.jfif",
     year: 2017,
     make: "Toyota",
     model: "Corolla",
@@ -205,7 +205,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/civic.jfif",
+    image: "./img/crv.jfif",
     year: 2016,
     make: "Honda",
     model: "CR-V",
@@ -216,7 +216,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/fusion.jfif",
+    image: "./img/f150.jfif",
     year: 2017,
     make: "Ford",
     model: "F-150",
@@ -227,10 +227,10 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/altima.jfif",
+    image: "./img/rogue.jfif",
     year: 2020,
     make: "Nissan",
-    model: "Altima",
+    model: "Rogue",
     mileage: 20000,
     price: "$30,000",
     color: "Black",
@@ -239,7 +239,7 @@ const usedCars = [
   {
     //image: "./img/carimg.png",//
     year: 2015,
-    image: "./img/malibu.jfif",
+    image: "./img/tblaze.jfif",
     make: "Chevrolet",
     model: "Trailblaze",
     mileage: 30000,
@@ -250,7 +250,7 @@ const usedCars = [
   {
     //image: "./img/carimg.png",//
     year: 2016,
-    image: "./img/passat.jfif",
+    image: "./img/jetta.jfif",
     make: "Volkswagen",
     model: "Jetta",
     mileage: 45000,
@@ -260,7 +260,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/elantra.jfif",
+    image: "./img/santafe.jfif",
     year: 2018,
     make: "Hyundai",
     model: "SanteFe",
@@ -271,7 +271,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/outback.jfif",
+    image: "./img/wrx.jfif",
     year: 2014,
     make: "Subaru",
     model: "WRX",
@@ -282,7 +282,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/cx5.jfif",
+    image: "./img/miata.jfif",
     year: 2017,
     make: "Mazda",
     model: "Miata",
@@ -293,7 +293,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/kia.jfif",
+    image: "./img/soul.jfif",
     year: 2018,
     make: "Kia",
     model: "Soul",
@@ -304,7 +304,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/dodge.jfif",
+    image: "./img/charger.jfif",
     year: 2020,
     make: "Dodge",
     model: "Charger",
@@ -315,7 +315,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/XT5.jfif",
+    image: "./img/esc.jfif",
     year: 2015,
     make: "Cadillac",
     model: "Escalade",
@@ -326,7 +326,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/fpace.jfif",
+    image: "./img/XK.jfif",
     year: 2018,
     make: "Jaguar",
     model: "XK",
@@ -337,7 +337,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/tesla.jfif",
+    image: "./img/y.jfif",
     year: 2019,
     make: "Tesla",
     model: "Model Y",
@@ -348,7 +348,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/porshe.jfif",
+    image: "./img/911.jfif",
     year: 2014,
     make: "Porsche",
     model: "911",
@@ -359,7 +359,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/lexux.jfif",
+    image: "./img/gx.jfif",
     year: 2019,
     make: "Lexus",
     model: "GX",
@@ -370,7 +370,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/bmw.jfif",
+    image: "./img/xseries.jfif",
     year: 2015,
     make: "BMW",
     model: "X Series",
@@ -381,7 +381,7 @@ const usedCars = [
   },
   {
     //image: "./img/carimg.png",//
-    image: "./img/camry.jfif",
+    image: "./img/4run.jfif",
     year: 2014,
     make: "Toyota",
     model: "4-Runner",
